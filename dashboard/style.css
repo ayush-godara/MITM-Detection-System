@@ -1,0 +1,134 @@
+body{
+font-family:Arial;
+background:#0b0b0b;
+color:white;
+padding:20px;
+}
+
+h1{
+text-align:center;
+margin-bottom:20px;
+}
+
+.top{
+display:flex;
+gap:20px;
+margin-bottom:30px;
+}
+
+.risk-card{
+width:300px;
+background:#151515;
+padding:20px;
+border-radius:10px;
+text-align:center;
+}
+
+.side-widgets{
+display:grid;
+grid-template-columns:repeat(2,1fr);
+gap:15px;
+flex:1;
+}
+
+.card{
+background:#151515;
+padding:20px;
+border-radius:10px;
+text-align:center;
+}
+
+.card div{
+font-size:22px;
+font-weight:bold;
+}
+
+#status{
+color:#00ff88;
+font-weight:bold;
+}
+
+.graphs{
+display:flex;
+gap:20px;
+}
+
+.graph-box{
+flex:1;
+background:#151515;
+padding:20px;
+border-radius:10px;
+height:380px;
+}
+
+canvas{
+background:transparent;
+display:block;
+margin:auto;
+}
+
+.alert{
+background:#1c1c1c;
+padding:10px;
+margin:6px;
+border-left:5px solid red;
+}
+#threat{
+font-size:24px;
+font-weight:bold;
+color:#00ff88;
+}
+
+.safe{
+color:#00ff88;
+}
+
+.warning{
+color:#ffcc00;
+}
+
+.attack{
+color:#ff0000;
+}
+.risk-rotate{
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+@keyframes spin{
+
+0%{
+transform:rotate(0deg);
+}
+
+100%{
+transform:rotate(360deg);
+}
+
+}
+.risk-card{
+width:260px;
+background:#151515;
+padding:20px;
+border-radius:10px;
+text-align:center;
+}
+
+#riskChart{
+width:200px !important;
+height:200px !important;
+margin:auto;
+}
+#riskChart{
+transform:none !important;
+animation:none !important;
+}
+.risk-card{
+transform:none !important;
+animation:none !important;
+}
+.graph-box canvas{
+height:300px !important;
+width:100% !important;
+}

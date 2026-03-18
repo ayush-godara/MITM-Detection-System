@@ -1,0 +1,375 @@
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+
+MITM ATTACK DETECTED
+
+Attacker IP : 192.168.1.1
+Attacker MAC : aa:aa:aa:aa:aa:aa
+Gateway MAC changed : None -> aa:aa:aa:aa:aa:aa
+
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> 0c:36:23:5e:d2:d0
+[PAYLOAD ALERT] login detected
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> a6:42:43:11:23:7b
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> a6:42:43:11:23:7b
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> a6:42:43:11:23:7b
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> a6:42:43:11:23:7b
+[MITM DETECTED] Gateway MAC changed! 08:00:27:63:b0:05 -> a6:42:43:11:23:7b

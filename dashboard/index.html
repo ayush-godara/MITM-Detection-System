@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>MITM Network Security Monitor</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<h1>MITM Network Security Monitor</h1>
+
+<div class="top">
+
+<div class="risk-card">
+
+<h2>Risk Meter</h2>
+
+<div class="risk-rotate">
+<canvas id="riskChart"></canvas>
+</div>
+
+</div>
+
+<div class="side-widgets">
+
+<div class="card">
+<h3>Threat Level</h3>
+<div id="threat">SAFE</div>
+</div>
+
+<div class="card">
+<h3>Packets Monitored</h3>
+<div id="packets">0</div>
+</div>
+
+<div class="card">
+<h3>Signal Strength</h3>
+<div id="signal">0%</div>
+</div>
+
+<div class="card">
+<h3>System Uptime</h3>
+<div id="uptime">0 sec</div>
+</div>
+
+</div>
+
+</div>
+
+
+<div class="graphs">
+
+<div class="graph-box">
+<h2>RTT Latency</h2>
+<canvas id="rttChart"></canvas>
+</div>
+
+<div class="graph-box">
+<h2>RSS Signal Strength</h2>
+<canvas id="rssChart"></canvas>
+</div>
+
+</div>
+
+
+<h2>Alerts</h2>
+
+<div id="alerts"></div>
+
+
+<script src="app.js"></script>
+
+</body>
+</html>
