@@ -1,79 +1,191 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Real-time Man-in-the-Middle Attack Detection on Local Area Networks">
+  <title>MITM Attack in LAN — Network Security Monitor</title>
 
-<title>MITM Network Security Monitor</title>
-
-<link rel="stylesheet" href="style.css">
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
+  <!-- Animated background grid -->
+  <div class="cyber-grid"></div>
 
-<h1>MITM Network Security Monitor</h1>
+  <!-- ===== HEADER ===== -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
+        </div>
+        <div class="brand-text">
+          <span class="brand-title">MITM Attack in LAN</span>
+          <span class="brand-sub">Real-Time Network Security Monitor</span>
+        </div>
+      </div>
+      <div class="header-right">
+        <span class="live-badge"><span class="live-dot"></span>MONITORING</span>
+        <span class="clock" id="header-clock">--:--:--</span>
+      </div>
+    </div>
+  </header>
 
-<div class="top">
+  <!-- ===== MAIN ===== -->
+  <main class="main">
 
-<div class="risk-card">
+    <!-- ── STATUS BANNER ── -->
+    <div class="status-banner" id="status-banner">
+      <div class="status-icon" id="status-icon">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+      </div>
+      <div class="status-text">
+        <span class="status-label" id="status-label">System Status</span>
+        <span class="status-value" id="status-value">Network Secure — No threats detected</span>
+      </div>
+      <span class="status-badge" id="status-badge">SAFE</span>
+    </div>
 
-<h2>Risk Meter</h2>
+    <!-- ── KPI CARDS ── -->
+    <section class="kpi-grid">
+      <div class="kpi">
+        <div class="kpi-icon kpi-icon--threat">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        </div>
+        <div class="kpi-body">
+          <span class="kpi-label">Threat Level</span>
+          <span class="kpi-value safe" id="threat">SAFE</span>
+        </div>
+        <div class="kpi-bar"><div class="kpi-bar-fill kpi-bar--green" id="threat-bar" style="width:5%"></div></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-icon kpi-icon--packets">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <div class="kpi-body">
+          <span class="kpi-label">Packets Monitored</span>
+          <span class="kpi-value" id="packets">0</span>
+        </div>
+        <div class="kpi-bar"><div class="kpi-bar-fill kpi-bar--cyan" style="width:100%"></div></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-icon kpi-icon--signal">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><line x1="12" y1="20" x2="12.01" y2="20"/></svg>
+        </div>
+        <div class="kpi-body">
+          <span class="kpi-label">Signal Strength</span>
+          <span class="kpi-value" id="signal">0%</span>
+        </div>
+        <div class="kpi-bar"><div class="kpi-bar-fill kpi-bar--purple" id="signal-bar" style="width:0%"></div></div>
+      </div>
+      <div class="kpi">
+        <div class="kpi-icon kpi-icon--uptime">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </div>
+        <div class="kpi-body">
+          <span class="kpi-label">Uptime</span>
+          <span class="kpi-value" id="uptime">0s</span>
+        </div>
+        <div class="kpi-bar"><div class="kpi-bar-fill kpi-bar--teal" style="width:100%"></div></div>
+      </div>
+    </section>
 
-<div class="risk-rotate">
-<canvas id="riskChart"></canvas>
-</div>
+    <!-- ── CHARTS ROW 1: Risk + RTT + RSS ── -->
+    <section class="charts-grid">
+      <div class="card card--risk glow-border">
+        <div class="card-head">
+          <h2>Risk Meter</h2>
+          <span class="tag" id="risk-tag">0%</span>
+        </div>
+        <div class="risk-wrap">
+          <canvas id="riskChart"></canvas>
+          <div class="risk-label">
+            <span class="risk-num" id="risk-number">0</span>
+            <span class="risk-unit">% risk</span>
+          </div>
+        </div>
+      </div>
+      <div class="card card--chart glow-border">
+        <div class="card-head">
+          <h2>RTT Latency</h2>
+          <span class="tag tag--pink">ms</span>
+        </div>
+        <div class="chart-area"><canvas id="rttChart"></canvas></div>
+      </div>
+      <div class="card card--chart glow-border">
+        <div class="card-head">
+          <h2>Signal Strength</h2>
+          <span class="tag tag--cyan">ms</span>
+        </div>
+        <div class="chart-area"><canvas id="rssChart"></canvas></div>
+      </div>
+    </section>
 
-</div>
+    <!-- ── CHARTS ROW 2: Threat Radar + Protocol Distribution ── -->
+    <section class="charts-grid-2">
+      <div class="card glow-border">
+        <div class="card-head">
+          <h2>Threat Surface</h2>
+          <span class="tag tag--magenta">Radar</span>
+        </div>
+        <div class="chart-area chart-area--sm"><canvas id="radarChart"></canvas></div>
+      </div>
+      <div class="card glow-border">
+        <div class="card-head">
+          <h2>Protocol Distribution</h2>
+          <span class="tag tag--cyan">Live</span>
+        </div>
+        <div class="chart-area chart-area--sm"><canvas id="protoChart"></canvas></div>
+      </div>
+      <div class="card card--terminal glow-border">
+        <div class="card-head">
+          <h2>Live Packet Feed</h2>
+          <span class="tag tag--green">Terminal</span>
+        </div>
+        <div class="terminal" id="terminal">
+          <div class="term-line dim">[system] Waiting for packets...</div>
+        </div>
+      </div>
+    </section>
 
-<div class="side-widgets">
+    <!-- ── ALERTS ── -->
+    <section class="card card--alerts glow-border">
+      <div class="card-head">
+        <h2>Alerts Feed</h2>
+        <div class="card-actions">
+          <button id="export-btn" class="btn-action" title="Export logs">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Export
+          </button>
+          <button id="clear-btn" class="btn-action btn-action--danger" title="Clear all alerts">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
+            Clear All
+          </button>
+          <span class="tag tag--red" id="alert-count-badge">0</span>
+        </div>
+      </div>
+      <div class="alerts-list" id="alerts">
+        <div class="alerts-empty" id="alerts-empty">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="opacity:.3"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+          <span>No alerts — monitoring active</span>
+        </div>
+      </div>
+    </section>
 
-<div class="card">
-<h3>Threat Level</h3>
-<div id="threat">SAFE</div>
-</div>
+    <!-- ── FOOTER ── -->
+    <footer class="footer">
+      <span>MITM Attack in LAN &mdash; Network Security Project</span>
+      <span>Built by <strong>Ayush Godara</strong></span>
+      <span>Powered by Scapy &bull; Isolation Forest &bull; LOF</span>
+    </footer>
 
-<div class="card">
-<h3>Packets Monitored</h3>
-<div id="packets">0</div>
-</div>
+  </main>
 
-<div class="card">
-<h3>Signal Strength</h3>
-<div id="signal">0%</div>
-</div>
-
-<div class="card">
-<h3>System Uptime</h3>
-<div id="uptime">0 sec</div>
-</div>
-
-</div>
-
-</div>
-
-
-<div class="graphs">
-
-<div class="graph-box">
-<h2>RTT Latency</h2>
-<canvas id="rttChart"></canvas>
-</div>
-
-<div class="graph-box">
-<h2>RSS Signal Strength</h2>
-<canvas id="rssChart"></canvas>
-</div>
-
-</div>
-
-
-<h2>Alerts</h2>
-
-<div id="alerts"></div>
-
-
-<script src="app.js"></script>
-
+  <script src="app.js"></script>
 </body>
 </html>
