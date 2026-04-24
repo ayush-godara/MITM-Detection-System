@@ -1,13 +1,6 @@
 # Virtual environment
 venv/
 
-# Large dataset files
-ml/dataset.csv
-ml/cleaned_dataset.csv
-
-# Large model files (>25MB)
-ml/models/lof.pkl
-
 # Python cache
 __pycache__/
 *.pyc
